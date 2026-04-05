@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "judgement_smp.aternos.me:15366",
+    "ip": "judgement_smp.aternos.me",
     "port": 15366,
     "version": "",
     "try-creative": false
